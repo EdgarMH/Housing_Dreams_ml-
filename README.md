@@ -2,13 +2,13 @@
 
 # Housing Dreams
 
-¡Bienvenidos al primer dataset del Hackathon! En este primer desafío, nos ponemos en los zapatos del equipo de ML de la ficticia HouseDream, una empresa tech de Real Estate radicada en USA, recientemente fundada. Nos dedicamos a conseguir casas de ensueño nuestros usuarios, listadas o no, utilizando tecnología para matchear casas con usuarios.
+En esta ocación nos ponemos en los zapatos del equipo de ML de la ficticia HouseDream, una empresa tech de Real Estate radicada en USA, recientemente fundada. Nos dedicamos a conseguir casas de ensueño nuestros usuarios, listadas o no, utilizando tecnología para matchear casas con usuarios.
 
 ## Descripción del Problema
 
-Nuestro Team Lider nos pide que armemos un modelo para predecir el precio de una casa con el dataset recién llegado del área de Data Collection. Este dataset pertenece a la ciudad de Ames, Iowa, ciudad la cuál la empresa quiere agregar a la oferta disponible. 
+El objetivo es armar un modelo para predecir el precio de una casa con el dataset recién llegado del área de Data Collection. Este dataset pertenece a la ciudad de Ames, Iowa, ciudad la cuál la empresa quiere agregar a la oferta disponible. 
 
-Nuestra meta es plantear un modelo (o serie de ellos), correrlo y utilizar la métrica definida para testear su performance.
+Debemos plantear un modelo (o serie de ellos), correrlo y utilizar la métrica definida para testear su performance.
 
 ## Métrica a utilizar
 
