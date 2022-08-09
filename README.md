@@ -21,7 +21,7 @@ siendo $p_i$ el valor predicho y $a_i$ el actual.
 
 ## Archivos provistos
 
-Nos proveen los archivos 'House_train_raw.csv', con 1460 observaciones y 81 dimensiones, incluyendo el precio de las casas, y 'House_test_raw.csv', con 1469 observaciones y 80 dimensiones. La primera 
+Nos proveen los archivos 'House_train_raw.csv', con 1460 observaciones y 81 dimensiones, incluyendo el precio de las casas, y 'House_test_raw.csv', con 1469 observaciones y 80 dimensiones. 
 
 ## Descripción de las dimensiones
 
